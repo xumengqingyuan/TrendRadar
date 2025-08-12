@@ -68,6 +68,4 @@ platforms:
   - id: "cls-hot"
     name: "财联社热门"
   - id: "ifeng"
-    name: "凤凰网"   
-  - id: "chongbuluo"
-    name: "虫部落"
+    name: "凤凰网"
